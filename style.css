@@ -1,0 +1,71 @@
+.dropdown:hover .dropdown-menu{
+	display:block;
+}
+.iconstyle:hover{
+	 
+	color:red;
+}
+.iconstyle{
+font-size:32px;
+}
+#home{
+
+	    background-size: cover;
+    padding-top: 66px;
+    padding-bottom: 79px;
+}
+.heading{
+color:white;	
+padding:20px;
+
+margin-top:60px;
+}
+#big-font{
+	font-size:65px;
+	font-family:'Lato',sans-serif;
+	letter-spacing:2px;
+}
+#univ-logo{
+	margin-top:100px;
+	
+}
+.navbar{
+	background-color:#0190da ;
+}
+.btn-lg{
+    font-size: 150px;
+    line-height: 1;
+    display: block;
+    font-family: 'Lato',sans-serif;
+    color: #0190da;
+    background: #ffffff;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 21px;
+    padding-bottom: 36px;
+	box-sizing: border-box;
+}
+
+.btn-lg span.text {
+    text-align: left;
+    padding-left: 63px;
+    display: block;
+    font-size: 36px;
+    line-height: 1;
+    color: inherit;
+    margin-top: -2px;
+}
+
+.btn-lg.join{
+	 background:rgba(22,42,128,0.55);
+	 font-size: 36px;
+	 line-height: 1;
+	 text-transform: uppercase;
+    display: block;
+    font-family: 'Lato',sans-serif;
+	text-align: center;
+   height: 276px;
+    letter-spacing: 2.7px; 
+	color:#ffffff;
+	padding-top:100px;
+}

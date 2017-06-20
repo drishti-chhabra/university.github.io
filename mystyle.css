@@ -1,0 +1,246 @@
+.back{
+	background:url("https://livedemo00.template-help.com/wt_55755/images/header-bg-img.jpg") no-repeat;
+	background-position:100% 100%;
+	background-size: cover;
+	padding-top: 30px;
+    padding-bottom: 79px;
+}
+body{
+	
+	overflow:scroll;
+	font-family: "Roboto",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1.42857143;
+    color:b4b4b4;
+}
+#donate
+{
+	padding:30px;
+	color:#c62139;
+	letter-spacing:2.7px;
+	background-color:white;
+	
+	
+}
+#donate>a{
+	font-size:36px;
+}
+.nav-head{
+	background:transparent;
+	border:none;
+	margin-top:40px;
+}
+.nav>li{
+	margin:0px 10px ;
+}
+.nav>li>a{
+	color:white;
+	margin:0px; 
+	padding:8px 30px;
+}
+.nav li>a:hover{
+	display:block;
+	background-color:white;
+	color:#0190da ;
+	
+} 
+#active-home{
+	color:#0190da;
+	display:block;
+	background-color:white;
+	
+}
+.dropdown-menu{
+	padding:0px;
+}
+.dropdown-menu li a {
+    display: block;
+    padding: 10px;
+    font-weight: normal;
+    color: #ffffff;
+	background-color:#c62139  ;
+}
+.dropdown:hover .dropdown-menu{
+	display:block;
+}
+.iconstyle:hover{
+	 
+	color:red;
+}
+.iconstyle{
+font-size:32px;
+}
+#home{
+
+    padding-top: 66px;
+    padding-bottom: 79px;
+}
+.heading{
+color:white;	
+padding:20px;
+
+margin-top:60px;
+}
+#big-font{
+	font-size:65px;
+	font-family:'Lato',sans-serif;
+	letter-spacing:2px;
+}
+#univ-logo{
+	margin-top:60px;
+	
+}
+
+.btn-lg{
+    font-size: 150px;
+    line-height: 1;
+    display: block;
+    font-family: 'Lato',sans-serif;
+    color: #0190da;
+    background: #ffffff;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 21px;
+    padding-bottom: 36px;
+	box-sizing: border-box;
+	text-decoration:none;
+	
+}
+.btn-lg:hover{
+	color:white;
+	background-color:rgba(22,42,128,0.55);
+	text-decoration:none;
+}
+.btn-lg span.text {
+    text-align: left;
+    padding-left: 63px;
+    display: block;
+    font-size: 36px;
+    line-height: 1;
+    color: inherit;
+    margin-top: -2px;
+}
+
+.btn-lg.join{
+	 background:rgba(22,42,128,0.55);
+	 font-size: 36px;
+	 line-height: 1;
+	 text-transform: uppercase;
+    display: block;
+    font-family: 'Lato',sans-serif;
+	text-align: center;
+   height: 240px;
+    letter-spacing: 2.7px; 
+	color:#ffffff;
+	padding-top:100px;
+	text-decoration:none;
+}
+    .btn-lg.join:hover
+	{
+		background: #c62139;
+	}
+#login{
+	color:white;
+	text-decoration:none;
+	font-size:18px;
+}
+.iconstyle:hover{
+	 
+	color:red;
+}
+.iconstyle{
+font-size:38px;
+text-decoration:none;
+}
+.base{
+	
+	    background: #f2f2f2;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+
+}
+.offer>h2{
+	font-size: 72px;
+    font-family: 'Lato',sans-serif;
+    line-height: 88px;
+}
+h2+p {
+    margin-top: 38px;
+}
+a.text-danger:hover, a.text-danger:active {
+    color: #0190da;
+	text-decoration:none;
+}
+.marked-list li {
+       font-size: 24px;
+    text-align: left;
+    font-family: 'Lato',sans-serif;
+    font-weight: 600;
+   
+}
+.marked-list li a{
+	 color: #c62139;
+	 text-decoration:none;
+	 
+}
+ul li, ol li {
+    padding:0 px;
+    list-style: none;
+    margin: 0;
+}
+.marked-list li+li {
+    margin-top: 15px;
+    border-top: 1px solid #ccc;
+}
+ul{
+	padding:0px;
+}
+
+img {
+    vertical-align: middle;
+    max-width: 100%;
+    height: auto;
+}
+.well2 {
+    padding-top: 100px;
+    padding-bottom: 123px;
+	
+}
+#myCarousel{
+    max-width: 49.21951219512195%;
+    right: 0;
+    top: 0;
+    bottom: 0;
+z-index: 2;}
+	
+.base-2
+	{
+		background: #c62139;
+	}
+.base-2 h2{
+	margin-top:94px;
+	color:white;
+	font-size:140px;
+	font-weight:800;
+	letter-spacing:2px;
+	display: block;
+	line-height:1;
+	margin-bottom:24px;
+}
+.base-2 p{
+    
+    padding-bottom: 54px;
+	color:white;
+	font-size:80px;
+	font-weight:700;
+}
+.base-2 h3{
+	margin-top:124px;
+	color:white;
+	font-size:36px;
+
+    line-height: 52px;
+	font-family: 'Lato',sans-serif;
+}
